@@ -78,4 +78,12 @@ a = None
 print(type(a))
 print(a)
 
-# OPERATORS 
+# COMMENTS IN PYTHON
+# this is a single line comment
+# now multiline comment 
+"""
+a = 10
+b = 20
+sum = a + b
+print(sum)
+"""

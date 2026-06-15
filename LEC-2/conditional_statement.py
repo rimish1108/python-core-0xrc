@@ -23,5 +23,7 @@ elif(light == "green"):
     print("Now you can go, Drive slowly and safely")
 elif(light == "yellow"):
     print("Hey! stop and look towards the countdown.")
+else:
+    print("The traffic light is broken, plz contact to the nearest traffice police or a police station for any queries")
 
 print("End of the code")

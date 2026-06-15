@@ -1,0 +1,10 @@
+a = int(input("Enter you number"))
+b = int(input("Enter you number"))
+
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+print(a%b)
+print(a**b)

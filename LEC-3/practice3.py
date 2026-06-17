@@ -1,0 +1,5 @@
+tup = ("C", "D", "A", "A", "B", "B", "A")
+print(tup.count("A"))
+print(tup.count("B"))
+print(tup.count("C"))
+print(tup.count("D"))
